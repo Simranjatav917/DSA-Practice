@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/Simranjatav917/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Simranjatav917/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Simranjatav917/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Binary Search
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Simranjatav917/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Simranjatav917/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
+## Sorting
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Simranjatav917/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
