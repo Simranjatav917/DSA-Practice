@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Simranjatav917/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Simranjatav917/DSA-Practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
