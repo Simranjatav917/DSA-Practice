@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Simranjatav917/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Simranjatav917/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Simranjatav917/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Simranjatav917/DSA-Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Simranjatav917/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Simranjatav917/DSA-Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Simranjatav917/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Simranjatav917/DSA-Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
 | ------- |
@@ -46,8 +49,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Simranjatav917/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Simranjatav917/DSA-Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Simranjatav917/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Simranjatav917/DSA-Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Simranjatav917/DSA-Practice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
