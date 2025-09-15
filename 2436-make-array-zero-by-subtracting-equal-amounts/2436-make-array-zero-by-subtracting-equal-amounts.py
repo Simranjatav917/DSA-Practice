@@ -1,6 +1,15 @@
 class Solution(object):
-        def minimumOperations(self, A):
-            return len(set(A) - {0})
+    def minimumOperations(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        freq_map = {}
+        for num in nums:
+            if num > 0:
+                freq_map[num] = freq_map.get(num, 0) + 1
+        
+        return len(freq_map)
         
         
 # import numpy as np
