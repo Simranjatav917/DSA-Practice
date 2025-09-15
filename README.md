@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Simranjatav917/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Simranjatav917/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Simranjatav917/DSA-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Simranjatav917/DSA-Practice/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Simranjatav917/DSA-Practice/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Simranjatav917/DSA-Practice/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Simranjatav917/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Simranjatav917/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
